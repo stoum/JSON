@@ -1,4 +1,11 @@
 {
-
+    "id": "B226",
+    "summary":"In Delivery Information Page information displayed in Russian",
+    "stepsToReproduce":"Open Homepage Online Shop Site, Click on Delivery Information button",
+    "actualResult":"In Delivery Information Page information displayed in Russian",
+    "expectedResult":"In Delivery Information Page information displayed in English",
+    "severity":"high",
+    "priority":"low",
+    "attachments":"none"
 
 }
